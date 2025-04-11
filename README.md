@@ -1,6 +1,7 @@
 # mtm6201_final
 Final Project-Notes
 <!--Built with Bootstrap| https://getbootstrap.com-->
+<!--Nav Animation by Animate.css| https://https://animate.style-->
 
 Images 
 
